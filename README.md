@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <head>
         <title>Laboratoire 2 | Web Client 2</title>
@@ -13,7 +12,7 @@
     </head>
     <body>
         <h3 style="text-align: center;">
-            Gabriel Botelho | Manageur d'employés McDo
+            G B | Manageur d'employés McDo
         </h3>
         <div class="container-fluid">
             <div class="row">
